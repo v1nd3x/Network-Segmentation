@@ -4,14 +4,17 @@ Network segmentation is a network security technique that divides a network into
 
 **Flat network** refers to an architecture where all devices can connect to each other without going through any other hardware.
 Flat networks provide fast and reliable connectivity for all connected devices, and security efforts generally concentrate on isolating internal networks from external networks
-![3d3b9387b5bd2711d1f61d8dc78c3108.png](:/cb3e8cb996214ce6b16fad9765a09761)
+
 **Flat Network Architecture** 
 
 - attackers successfully compromise the network, they might be able to move laterally, from one system to another, potentially gaining access to more sensitive systems.
 
+![image](https://user-images.githubusercontent.com/59384064/201025931-d2e8eb38-7f09-41c2-87ca-beda96da6ce0.png)
+
 **Network segmentation** is a powerful but underutilized security measure, and it is one of the cornerstones of a successful information security program.
 
-![d2e1491526fdd08d662dff904077077c.png](:/bb253d67e01448d7a866fa4b6cf3f5a8)
+![image](https://user-images.githubusercontent.com/59384064/201026221-15d491e9-5a45-4f67-b8c6-0a2ed5605249.png)
+
 **Segmented Network Architecture** 
 - if properly implemented and managed, can greatly limit lateral movement.
 
