@@ -34,4 +34,4 @@ Flat networks provide fast and reliable connectivity for all connected devices, 
 |  Network Segmentation | Micro segmentation |
 | - Traditional network segmentation covers a larger segment of the network. <br>- Network segmentation works with the physical network.<br>- Network segmentation policies are broad.<br>- Network segmentation is hardware-based.<br>- Network segmentation limits north-south traffic at the network level | - Micro segmentation can be used at the device level, which makes it great for internet of things (IoT) and edge devices.<br>- Micro segmentation is for virtual networks.<br>- Micro segmentation policies are much more granular.<br>- Micro segmentation is typically software-based.<br>- Micro segmentation limits east-west traffic at the workload level. |
 
-   [Next Topic](https://google.com)
+   [Next Topic - Resources](https://github.com/v1nd3x/Network-Segmentation/blob/main/Resources.md)
