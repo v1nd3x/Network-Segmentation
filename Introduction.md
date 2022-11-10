@@ -29,9 +29,19 @@ Flat networks provide fast and reliable connectivity for all connected devices, 
     - User congestion is relieved on other parts of the network.
     - Cybersecurity improves in limiting how far a malicious attack can spread by confining the attack to one segment.
 
+#
+**Difference Between Network Segmentation and Micro segmentation**
+   
 |     |     |
 | --- | --- |
 |  Network Segmentation | Micro segmentation |
 | - Traditional network segmentation covers a larger segment of the network. <br>- Network segmentation works with the physical network.<br>- Network segmentation policies are broad.<br>- Network segmentation is hardware-based.<br>- Network segmentation limits north-south traffic at the network level | - Micro segmentation can be used at the device level, which makes it great for internet of things (IoT) and edge devices.<br>- Micro segmentation is for virtual networks.<br>- Micro segmentation policies are much more granular.<br>- Micro segmentation is typically software-based.<br>- Micro segmentation limits east-west traffic at the workload level. |
+
+#
+**How does network segmentation work?**
+
+Network segmentation divides a network into multiple zones and manages each zone, or segment, individually. This means applying traffic protocols to manage what traffic passes through the segment and what is not allowed. It also covers security protocols to each zone to manage security and compliance.
+
+Network segments are designated with their own dedicated hardware to wall each other off and only allow credentialed users to access the system. Rules are built into network configurations to determine how users, services and devices on subnetworks can interconnect with each other.
 
    [Next Topic - Resources](https://github.com/v1nd3x/Network-Segmentation/blob/main/Resources.md)
